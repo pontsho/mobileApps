@@ -1,0 +1,22 @@
+CACHE MANIFEST
+# Unique id #1383545035341.0.26460600036271764
+
+CACHE:
+# Static app files
+logo.png
+./
+GCMobile.html
+
+# GWT compiled files
+gcmobile/gcmobile.nocache.js
+gcmobile/gcmobile.devmode.js
+gcmobile/E5AB19DE9B17E6E2B4A65DB157F8D279.cache.js
+gcmobile/60C50705A6B28239A0BDBA3AC0CF3A1F.cache.png
+gcmobile/compilation-mappings.txt
+gcmobile/resources/camera_success.jpg
+gcmobile/clear.cache.gif
+
+
+# All other resources require the client to be online.
+NETWORK:
+*

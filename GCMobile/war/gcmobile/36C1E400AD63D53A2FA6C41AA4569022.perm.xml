@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><permutation name="36C1E400AD63D53A2FA6C41AA4569022">
+<variables>
+<mobile.user.agent>mobilesafari</mobile.user.agent>
+<phonegap.env>yes</phonegap.env>
+<mgwt.os>android</mgwt.os>
+<user.agent>safari</user.agent>
+</variables>
+<files>
+<file>gcmobile/clear.cache.gif</file>
+<file>logo.png</file>
+<file>./</file>
+<file>gcmobile/gcmobile.nocache.js</file>
+<file>gcmobile/resources/camera_success.jpg</file>
+<file>gcmobile/compilation-mappings.txt</file>
+<file>gcmobile/60C50705A6B28239A0BDBA3AC0CF3A1F.cache.png</file>
+<file>gcmobile/gcmobile.devmode.js</file>
+<file>gcmobile/36C1E400AD63D53A2FA6C41AA4569022.cache.js</file>
+<file>GCMobile.html</file>
+</files>
+</permutation>

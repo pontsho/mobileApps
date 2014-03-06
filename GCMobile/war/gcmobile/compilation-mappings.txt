@@ -1,0 +1,409 @@
+095C131D46B226E480E07B09F450A5E1.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent ie9
+
+11605126565A38A19B83B99EE58D045A.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent opera
+
+14CB5DC5A47460203D8DFAA25FAD319A.cache.js
+mgwt.os desktop
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+14CB5DC5A47460203D8DFAA25FAD319A.cache.js
+mgwt.os desktop
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+14CB5DC5A47460203D8DFAA25FAD319A.cache.js
+mgwt.os desktop
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+14CB5DC5A47460203D8DFAA25FAD319A.cache.js
+mgwt.os desktop
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+1B1BA7AB78433F11D3542BE94037EC77.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent ie8
+
+223B29ACA7898F5F961E8D056F37985B.cache.js
+mgwt.os blackberry
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+223B29ACA7898F5F961E8D056F37985B.cache.js
+mgwt.os blackberry
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+223B29ACA7898F5F961E8D056F37985B.cache.js
+mgwt.os blackberry
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+223B29ACA7898F5F961E8D056F37985B.cache.js
+mgwt.os blackberry
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+36C1E400AD63D53A2FA6C41AA4569022.cache.js
+mgwt.os android
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+36C1E400AD63D53A2FA6C41AA4569022.cache.js
+mgwt.os android
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+36C1E400AD63D53A2FA6C41AA4569022.cache.js
+mgwt.os android
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+36C1E400AD63D53A2FA6C41AA4569022.cache.js
+mgwt.os android
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+375CC55A0452D10E3BAD56E97B6EFEA0.cache.js
+mgwt.os android_tablet
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+375CC55A0452D10E3BAD56E97B6EFEA0.cache.js
+mgwt.os android_tablet
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+375CC55A0452D10E3BAD56E97B6EFEA0.cache.js
+mgwt.os android_tablet
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+375CC55A0452D10E3BAD56E97B6EFEA0.cache.js
+mgwt.os android_tablet
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+50B2901EB0CECA4539FD60CDC02E8304.cache.js
+mgwt.os iphone
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+50B2901EB0CECA4539FD60CDC02E8304.cache.js
+mgwt.os iphone
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+50B2901EB0CECA4539FD60CDC02E8304.cache.js
+mgwt.os iphone
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+50B2901EB0CECA4539FD60CDC02E8304.cache.js
+mgwt.os iphone
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+54A5465DF22045BFFF70A2E64EB5568B.cache.js
+mgwt.os ipad_retina
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+54A5465DF22045BFFF70A2E64EB5568B.cache.js
+mgwt.os ipad_retina
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+54A5465DF22045BFFF70A2E64EB5568B.cache.js
+mgwt.os ipad_retina
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+54A5465DF22045BFFF70A2E64EB5568B.cache.js
+mgwt.os ipad_retina
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+810DB6512D634488DFB46521561D46C8.cache.js
+mgwt.os ipad
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+810DB6512D634488DFB46521561D46C8.cache.js
+mgwt.os ipad
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+810DB6512D634488DFB46521561D46C8.cache.js
+mgwt.os ipad
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+810DB6512D634488DFB46521561D46C8.cache.js
+mgwt.os ipad
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+829F6FAC410B4FE13479D384AE509ACA.cache.js
+mgwt.os retina
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+829F6FAC410B4FE13479D384AE509ACA.cache.js
+mgwt.os retina
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+829F6FAC410B4FE13479D384AE509ACA.cache.js
+mgwt.os retina
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+829F6FAC410B4FE13479D384AE509ACA.cache.js
+mgwt.os retina
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+91B2F8A177AA941156E4070EAE1EC870.cache.js
+mgwt.os iphone
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+91B2F8A177AA941156E4070EAE1EC870.cache.js
+mgwt.os iphone
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+91B2F8A177AA941156E4070EAE1EC870.cache.js
+mgwt.os iphone
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+91B2F8A177AA941156E4070EAE1EC870.cache.js
+mgwt.os iphone
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+980978E1AB8D2D56CBC9332FDB84031E.cache.js
+mgwt.os ipad
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+980978E1AB8D2D56CBC9332FDB84031E.cache.js
+mgwt.os ipad
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+980978E1AB8D2D56CBC9332FDB84031E.cache.js
+mgwt.os ipad
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+980978E1AB8D2D56CBC9332FDB84031E.cache.js
+mgwt.os ipad
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+999F9C32765A7ACD34034F425A0B1459.cache.js
+mgwt.os android_tablet
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+999F9C32765A7ACD34034F425A0B1459.cache.js
+mgwt.os android_tablet
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+999F9C32765A7ACD34034F425A0B1459.cache.js
+mgwt.os android_tablet
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+999F9C32765A7ACD34034F425A0B1459.cache.js
+mgwt.os android_tablet
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+9F47933B038143BE8313142D74C130B1.cache.js
+mgwt.os blackberry
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+9F47933B038143BE8313142D74C130B1.cache.js
+mgwt.os blackberry
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+9F47933B038143BE8313142D74C130B1.cache.js
+mgwt.os blackberry
+mobile.user.agent mobilesafari
+phonegap.env no
+user.agent safari
+
+9F47933B038143BE8313142D74C130B1.cache.js
+mgwt.os blackberry
+mobile.user.agent mobilesafari
+phonegap.env yes
+user.agent safari
+
+A54240F2636013A086ABCD3FA08C8AA0.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+A54240F2636013A086ABCD3FA08C8AA0.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+A54240F2636013A086ABCD3FA08C8AA0.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+A54240F2636013A086ABCD3FA08C8AA0.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+BEC82DE8945F2F60735A36BA5EFEC8AA.cache.js
+mgwt.os ipad_retina
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+BEC82DE8945F2F60735A36BA5EFEC8AA.cache.js
+mgwt.os ipad_retina
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+BEC82DE8945F2F60735A36BA5EFEC8AA.cache.js
+mgwt.os ipad_retina
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+BEC82DE8945F2F60735A36BA5EFEC8AA.cache.js
+mgwt.os ipad_retina
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+D07775BC59DF058F47F6D9DC386122A6.cache.js
+mgwt.os retina
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+D07775BC59DF058F47F6D9DC386122A6.cache.js
+mgwt.os retina
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+D07775BC59DF058F47F6D9DC386122A6.cache.js
+mgwt.os retina
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+D07775BC59DF058F47F6D9DC386122A6.cache.js
+mgwt.os retina
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+E5AB19DE9B17E6E2B4A65DB157F8D279.cache.js
+mgwt.os android
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+E5AB19DE9B17E6E2B4A65DB157F8D279.cache.js
+mgwt.os android
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+E5AB19DE9B17E6E2B4A65DB157F8D279.cache.js
+mgwt.os android
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent safari
+
+E5AB19DE9B17E6E2B4A65DB157F8D279.cache.js
+mgwt.os android
+mobile.user.agent not_mobile
+phonegap.env yes
+user.agent safari
+
+E8D77A783A0CDD626CB92F39D2903D50.cache.js
+mgwt.os desktop
+mobile.user.agent not_mobile
+phonegap.env no
+user.agent gecko1_8
+
+Devmode:devmode.js

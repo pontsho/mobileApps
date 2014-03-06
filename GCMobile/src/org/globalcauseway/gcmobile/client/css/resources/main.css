@@ -1,0 +1,176 @@
+@url background fbImage;
+@url dropdown dropdownImage;
+@url arrowImage listArrow;
+@url headerbg headerbgImage;
+
+body {
+	font-family:Trebuchet !important;
+	background-color: #aacbdc !important;
+}
+
+.mgwt-Button {
+	
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #d5e6ed),color-stop(1, #c6dbe4));
+	
+}
+
+.mgwt-Button-active {
+	color: #fff;
+	background-image: -webkit-gradient(linear, left top, left bottom, from(rgb(5, 140, 245)), to(rgb(1, 95, 230)) );	
+}
+#main {
+	
+	background-color: #aacbdc !important;
+}
+
+.mgwt-SearchBox {
+	color: #333 !important;
+	background-color: #fff;
+	border : none;
+	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #79C2DF),color-stop(1, #C1CFD6)) !important;
+	border: none !important;
+	width: 97% !important;
+}
+
+.mgwt-SearchBox-round {
+	background-color: #fff !important;
+}
+.mgwt-SearchBox-input{
+	background-color: #fff;
+	color: #333 !important;
+}
+
+.mgwt-TextBox .mgwt-InputBox-box:focus,.mgwt-PasswordTextBox .mgwt-InputBox-box:focus,.mgwt-TextArea .mgwt-InputBox-box:focus {
+	\-webkit-tap-highlight-color: #fff !important;
+	\-webkit-focus-ring-color: #fff !important;
+	background-color:#fff !important;
+}
+
+.mgwt-TextBox .mgwt-InputBox-box,.mgwt-PasswordTextBox .mgwt-InputBox-box,.mgwt-TextArea .mgwt-InputBox-box {
+	background-color: #fff !important;
+	color: #333 !important;
+	padding: 0 0 0 6px !important;
+}
+
+.mgwt-HeaderPanel {
+	background-image: headerbg;
+}
+
+.wrapper{
+	width: 100%;
+}
+
+.left{
+	width: 92%;
+	left: 0px;
+	font-weight: bold;
+	float: left;
+	font-size: 14px;
+}
+
+.right{
+	right: 5%;
+	float: right;
+	height: 26px;
+	font-size: 14px;
+	top: 31%;
+	position: absolute;
+	padding-right: 2px;
+}
+
+.remarksTD{
+	font-style: italic;
+	font-size: 11px;
+	color: #1A2E61;
+	width: 87%;
+}
+
+.mgwt-List>li {
+	
+	background-color: white;
+	color:#333;
+}
+.mgwt-List-group {
+	background-image: arrowImage;
+	background-repeat: no-repeat;
+	background-position: 100% 50%;
+}
+
+.textinput {
+	border: 1px solid #0f9f9f;
+	border-radius: 5px;
+	width: 96%;
+	margin: 0 5px;
+}
+
+.mgwt-InputBox-box{
+	border-radius: 5px;
+	height: 28px;
+}
+.fbLogin{
+    background-image: background;
+ 	background-repeat: no-repeat;
+	height: 37px;
+	margin-bottom: 20px;
+	border: none;
+	width: 100%;
+	margin-right: 3px;
+ 	
+ }
+ .navbuttonBarText{
+	text-decoration: underline;
+	height: 18px;
+	color: rgb(44, 78, 187);
+	margin-top: 2px;
+}
+.buttonBarText{
+	text-decoration: underline;
+	height: 18px;
+	color: rgb(44, 78, 187);
+}
+.mgwt-ListBox {
+	color:#333; 
+	background-color: #fff;
+	background-image: dropdown;
+	background-repeat: no-repeat;
+	background-position: 99% 50%;
+}
+
+.mgwt-List-round-android{
+	width: 140%;
+	background-color: transparent !important;
+}
+
+.detail-header td {
+	font-size:12px;
+	font-weight: bold;
+	text-shadow: #AAAAC2 0 2px 2px;
+	padding: 2px 0 1px 10px;
+	border: 1px solid #999;
+	height: 64px;
+	overflow: hidden;
+	background-color: #7297B4;
+	table-layout: fixed;
+	height: 100%;
+}
+
+ .table td {
+ 	font-size:12px;
+  	border: 1px solid #DADFEC;
+	padding: 2px 2px 0px 10px;
+	table-layout: fixed;
+	background-color: #D0D7E7;
+  }
+  
+  .mgwt-RoundPanel {
+	border-radius: 15px !important;
+	background-color: white !important;
+	border: 1px solid #abadb0 !important;
+	margin: 10px;
+	padding: 10px !important;
+	color: black !important;
+	font-weight: normal !important;
+}
+.logo{
+	background-position: 1px -2px !important;height: 42px !important;
+}
